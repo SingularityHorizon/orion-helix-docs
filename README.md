@@ -6,7 +6,7 @@
 ### Overview
 This repository serves as the public-facing hub for Orion Helix integration schemas, API references, and autonomous workflow logic. 
 
-**Current Operations:*
+**Current Operations:**
 * Establishing secure WebSocket tunnels for Multiverse Rooms.
 * Initializing agentic workflow pipelines. 
 * Validating enterprise vector database connections.
